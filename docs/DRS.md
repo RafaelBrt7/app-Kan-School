@@ -3,37 +3,72 @@
 ## 1. Introdução
 
 ### 1.1 Visao Geral
-
+O Kan-School é um sistema web de gerenciamento de atividades escolares baseado na metodologia Kanban, desenvolvido utilizando o framework Django.
+A plataforma permitirá que estudantes e professores organizem tarefas acadêmicas através de quadros visuais compostos por colunas e cartões, facilitando o acompanhamento do progresso das atividades escolares.
 
 ### 1.2 Objetivos do Sistema
+O sistema tem como objetivos:
+Organizar tarefas escolares em modelo Kanban;
+Melhorar a produtividade dos estudantes;
+Facilitar o acompanhamento de atividades acadêmicas;
+Promover colaboração entre usuários;
+Aplicar conceitos de metodologias ágeis no ambiente educacional.
 
 ### 1.3 Público Alvo
-
----
+O sistema será utilizado por:
+Estudantes;
+Professores;
+Grupos de estudo;
+Instituições educacionais.
 
 ## 2. Escopo do Sistema
 
 ### 2.1 Escopo Incluído
+O Kan-School incluirá:
+Cadastro e autenticação de usuários;
+Criação de quadros Kanban;
+Criação e edição de tarefas;
+Movimentação de tarefas entre colunas;
+Definição de prazos;
+Compartilhamento de quadros;
+Acompanhamento visual de progresso.
 
 ### 2.1 Escopo Incluído
+Nesta versão inicial não serão incluídos:
+Aplicativo mobile nativo;
+Integração com sistemas escolares oficiais;
+Inteligência artificial;
+Videochamadas integradas.
 
----
+### 3. Requisitos Funcionaís
+Código
+Requisito
+### RF00
+O sistema deve permitir cadastro de usuários
+### RF01
+O sistema deve realizar autenticação (login/logout)
+### RF02
+O usuário deve criar quadros Kanban
+### RF03
+O usuário deve criar, editar e excluir tarefas
+### RF04
+O usuário deve mover tarefas entre colunas
+### RF05
+O sistema deve permitir definição de prazos
+### RF06
+O sistema deve permitir comentários em tarefas
+### RF07
+O sistema deve armazenar histórico de ações
+### RF08
+O usuário deve compartilhar quadros
 
-## 3. Requisitos Funcionaís
-
-### RF00 - 
-
-### RF01 - 
-
----
-
-## 4. Requisitos Não Funcionais
+### 4. Requisitos Não Funcionais
 
 ### RNF00 -
 
 ### RNF01 -
 
-## 5. Arquitetura Técnica 
+### 5. Arquitetura Técnica 
 
 ### 5.1 Stacks
 
