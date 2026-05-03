@@ -69,7 +69,7 @@ O usuário deve compartilhar quadros
 Requisitos -
 ### RNF00
 O sistema deve possuir interface intuitiva
-###RNF01
+### RNF01
 O sistema deve ser responsivo
 ### RNF02
 O tempo de resposta deve ser inferior a 2 segundos
