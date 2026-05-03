@@ -62,12 +62,11 @@ O sistema deve armazenar histórico de ações
 ### RF08
 O usuário deve compartilhar quadros
 
-###4. Requisitos Não Funcionais
+### 4. Requisitos Não Funcionais
 
-###Código
+### Código:
 
-Requisito:
-
+Requisitos -
 ### RNF00
 O sistema deve possuir interface intuitiva
 ###RNF01
