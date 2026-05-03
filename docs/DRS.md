@@ -62,21 +62,46 @@ O sistema deve armazenar histórico de ações
 ### RF08
 O usuário deve compartilhar quadros
 
-### 4. Requisitos Não Funcionais
+###4. Requisitos Não Funcionais
 
-### RNF00 -
+###Código
 
-### RNF01 -
+Requisito:
 
-### 5. Arquitetura Técnica 
+### RNF00
+O sistema deve possuir interface intuitiva
+###RNF01
+O sistema deve ser responsivo
+### RNF02
+O tempo de resposta deve ser inferior a 2 segundos
+### RNF03
+O sistema deve garantir segurança dos dados
+### RNF04
+O sistema deve utilizar autenticação segura
+### RNF05
+O sistema deve estar disponível 95% do tempo
 
+### 5. Arquitetura Técnica
 ### 5.1 Stacks
-
-#### 5.1.1 Stack Backend 
-
-
-#### 5.1.2 Stack Frontend
-
-#### 5.1.7 Banco de Dados
+### 5.1.1 Stack Backend
+Tecnologias utilizadas no backend:
+Python 3
+Django
+Django REST Framework (API)
+Django Authentication System
+JWT ou Session Authentication
+GitHub (versionamento)
+### 5.1.2 Stack Frontend
+Interface do usuário:
+HTML5
+CSS3
+JavaScript
+Bootstrap ou Tailwind CSS
+Templates Django (ou React futuramente)
+### 5.1.7 Banco de Dados
+Sistema de persistência:
+PostgreSQL (principal)
+SQLite (ambiente de desenvolvimento)
+Django ORM para manipulação dos dados.
 
 ## 6. Modelo de Dados
