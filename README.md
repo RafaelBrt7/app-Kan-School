@@ -46,21 +46,21 @@ Requisito
 ### RF00
 O sistema deve permitir que alunos e professores criem contas com e-mail e senha.### RF01
 O sistema deve realizar autenticação (login/logout)
-### RF02
+### RF01
 O usuário deve poder criar múltiplos quadros (ex: um para cada disciplina)
-### RF03
+### RF02
 O usuário deve criar, editar e excluir tarefas
-### RF04
+### RF03
 A movimentação de tarefas deve ser visual (arrastar e soltar entre colunas).
-### RF05
+### RF04
 O sistema deve permitir definição de prazos
-### RF06
+### RF05
 O sistema deve permitir comentários em tarefas
-### RF07
+### RF06
 O sistema deve armazenar histórico de ações
-### RF08
+### RF07
 O usuário deve compartilhar quadros via e-mail, link público ou apenas para usuários já cadastrados.
-### RF09 
+### RF08 
 Diferenciar permissões entre "Dono do Quadro" e "Convidado/Editor".
 
 ### 4. Requisitos Não Funcionais
