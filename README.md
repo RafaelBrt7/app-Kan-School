@@ -91,6 +91,7 @@ Django REST Framework (API)
 Django Authentication System
 JWT ou Session Authentication
 GitHub (versionamento)
+Monolítica (Templates)
 ### 5.1.2 Stack Frontend
 Interface do usuário:
 HTML5
@@ -98,6 +99,7 @@ CSS3
 JavaScript
 Bootstrap ou Tailwind CSS
 Templates Django (ou React futuramente)
+Desacoplada (API + SPA)
 ### 5.1.7 Banco de Dados
 Sistema de persistência:
 PostgreSQL (principal)
