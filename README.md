@@ -48,7 +48,7 @@ O sistema deve permitir cadastro de usuários
 ### RF01
 O sistema deve realizar autenticação (login/logout)
 ### RF02
-O usuário deve criar quadros Kanban
+O usuário deve criar quadros Kanban, ex: (A fazer, fazendo, feito.)
 ### RF03
 O usuário deve criar, editar e excluir tarefas
 ### RF04
@@ -60,7 +60,7 @@ O sistema deve permitir comentários em tarefas
 ### RF07
 O sistema deve armazenar histórico de ações
 ### RF08
-O usuário deve compartilhar quadros
+O usuário deve compartilhar quadros via e-mail, link público ou apenas para usuários já cadastrados.
 
 ### 4. Requisitos Não Funcionais
 
@@ -78,7 +78,7 @@ O sistema deve garantir segurança dos dados
 ### RNF04
 O sistema deve utilizar autenticação segura
 ### RNF05
-O sistema deve estar disponível 95% do tempo
+O sistema deve estar disponível 99% do tempo
 
 ### 5. Arquitetura Técnica
 ### 5.1 Stacks
