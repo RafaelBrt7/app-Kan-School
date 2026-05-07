@@ -33,7 +33,7 @@ Definição de prazos;
 Compartilhamento de quadros;
 Acompanhamento visual de progresso.
 
-### 2.2 Escopo
+### 2.2 Escopo não incluido
 Nesta versão inicial não serão incluídos:
 Aplicativo mobile nativo;
 Integração com sistemas escolares oficiais;
