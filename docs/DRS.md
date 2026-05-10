@@ -55,21 +55,14 @@ Videochamadas integradas.
 
 ### 4. Requisitos Não Funcionais
 
-### Código:
-
-Requisitos -
-### RNF00
-O sistema deve possuir interface intuitiva
-### RNF01
-O sistema deve ser responsivo
-### RNF02
-O tempo de resposta deve ser inferior a 2 segundos
-### RNF03
-O sistema deve garantir segurança dos dados
-### RNF04
-O sistema deve utilizar autenticação segura
-### RNF05
-O sistema deve estar disponível 95% do tempo
+| Código | Requisitos                                                     |
+| ------ | ------------------------------------------------------------ |
+| RNF00   |O sistema deve possuir interface intuitiva                |
+| RNF01   |O sistema deve ser responsivo                                    |
+| RNF02   |O tempo de resposta deve ser inferior a 2 segundos                                |
+| RNF03   |O sistema deve garantir segurança dos dados         |
+| RNF04   |O sistema deve utilizar autenticação segura                    |
+| RNF05   |O sistema deve estar disponível 95% do tempo                    |
 
 ### 5. Arquitetura Técnica
 ### 5.1 Stacks
