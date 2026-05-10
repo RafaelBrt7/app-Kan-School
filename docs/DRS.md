@@ -41,26 +41,17 @@ Inteligência artificial;
 Videochamadas integradas.
 
 ### 3. Requisitos Funcionaís
-Código
-Requisito
-### RF00
-O sistema deve permitir cadastro de usuários
-### RF01
-O sistema deve realizar autenticação (login/logout)
-### RF02
-O usuário deve criar quadros Kanban
-### RF03
-O usuário deve criar, editar e excluir tarefas
-### RF04
-O usuário deve mover tarefas entre colunas
-### RF05
-O sistema deve permitir definição de prazos
-### RF06
-O sistema deve permitir comentários em tarefas
-### RF07
-O sistema deve armazenar histórico de ações
-### RF08
-O usuário deve compartilhar quadros
+| Código | Descrição                                                    |
+| ------ | ------------------------------------------------------------ |
+| RF00   |O sistema deve permitir cadastro de usuários                |
+| RF01   |O sistema deve realizar autenticação (login/logout)      |
+| RF02   |O usuário deve criar quadros Kanban                                |
+| RF03   |O usuário deve criar, editar e excluir tarefas                    |
+| RF05   | O usuário deve mover tarefas entre colunas                   |
+| RF06   | O sistema deve permitir definição de prazos                      |
+| RF07   | O sistema deve armazenar histórico de ações                 |
+| RF08   | O usuário deve compartilhar quadros                               |
+
 
 ### 4. Requisitos Não Funcionais
 
