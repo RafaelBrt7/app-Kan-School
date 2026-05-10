@@ -44,8 +44,7 @@ Videochamadas integradas.
 Código
 Requisito
 ### RF00
-O sistema deve permitir que alunos e professores criem contas com e-mail e senha.### RF01
-O sistema deve realizar autenticação (login/logout)
+O sistema deve permitir que alunos e professores criem contas com e-mail e senha.
 ### RF01
 O usuário deve poder criar múltiplos quadros (ex: um para cada disciplina)
 ### RF02
