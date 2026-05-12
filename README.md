@@ -41,26 +41,14 @@ Inteligência artificial;
 Videochamadas integradas.
 
 ### 3. Requisitos Funcionaís
-Código
-Requisito
-### RF00
-O sistema deve permitir que alunos e professores criem contas com e-mail e senha.
-### RF01
-O usuário deve poder criar múltiplos quadros (ex: um para cada disciplina)
-### RF02
-O usuário deve criar, editar e excluir tarefas
-### RF03
-A movimentação de tarefas deve ser visual (arrastar e soltar entre colunas).
-### RF04
-O sistema deve permitir definição de prazos
-### RF05
-O sistema deve permitir comentários em tarefas
-### RF06
-O sistema deve armazenar histórico de ações
-### RF07
-O usuário deve compartilhar quadros via e-mail, link público ou apenas para usuários já cadastrados.
-### RF08 
-Diferenciar permissões entre "Dono do Quadro" e "Convidado/Editor".
+| Código | Requisitos                                                     |
+| ------ | ------------------------------------------------------------ |
+| RNF00   |O sistema deve possuir interface intuitiva                |
+| RNF01   |O sistema deve ser responsivo                                    |
+| RNF02   |O tempo de resposta deve ser inferior a 2 segundos                                |
+| RNF03   |O sistema deve garantir segurança dos dados         |
+| RNF04   |O sistema deve utilizar autenticação segura                    |
+| RNF05   |O sistema deve estar disponível 95% do tempo                    |
 
 ### 4. Requisitos Não Funcionais
 
